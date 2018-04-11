@@ -6,7 +6,7 @@ namespace Application
 	{
 		public static void Main(string[] args)
 		{
-			Console.WriteLine("Hello Worlrrrrrrrd!");
+			Console.WriteLine("Hello Worlrrrgfgggrrrrd!");
 			Console.ReadKey;
 
 		}
